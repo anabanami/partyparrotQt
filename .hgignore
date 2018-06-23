@@ -1,0 +1,4 @@
+syntax: glob
+parrots.png
+example/parrotparty.py
+hello2.py
