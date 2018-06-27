@@ -25,7 +25,7 @@ def home(GUI):
     label.setAlignment(Qt.AlignCenter)
 
     def foo():
-        print("resizing..")
+        print("this doesn't even work, but whatever")
 
     def stop_click(checked):
         movie.setPaused(True)
